@@ -3,7 +3,7 @@
 @brief Basic SPI driver for the ENCM 369 firmware. 
 
  Original author: Paul Kathol, February 2019
- Modified by: Jason Long, April 2021
+ Modified by: Ahnaf Naheen, July 2021
 ***********************************************************************************************************************/
 
 #include "configuration.h"
