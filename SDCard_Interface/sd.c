@@ -3,7 +3,7 @@
 @brief Basic SD card driver for the ENCM 369 firmware. 
 
  Original author: Paul Kathol
- Modified by: Jason Long
+ Modified by: Ahnaf Naheen
 ***********************************************************************************************************************/
 
 #include "configuration.h"
